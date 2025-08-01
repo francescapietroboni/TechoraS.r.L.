@@ -586,7 +586,6 @@ OrderTableEmployee = OrderTableEmployee[[
      'OrderID', 'OrderDate', 'CustomerID', 'CustomerEmployeeID', 'CustomerEmployeeName',
     'ProductID', 'ProductName_x', 'VendorID', 'VendorName', 'Quantity',
     'Price', 'VAT', 'Total', 'AppliedDiscount', 'StoreID',
-    'EmployeeID',  # ← this is the seller now
     'ApprovingEmployeeID'
 ]]
 
